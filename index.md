@@ -9,55 +9,55 @@ Prior to this have been in the IT industry in various roles including developmen
 * Linux(Ubuntu), Windows, MacOS
 
 #### Programming Languages
-*  Python- Numpy, Pandas and Scikit Learn.
-*  C-sharp
-*  VBA- For Excel
-*  SQL
+* Python- Numpy, Pandas and Scikit Learn.
+* C-sharp
+* VBA- For Excel
+* SQL
 
 #### Databases
-*  Postgress, MySQL, SQLite, Oracle, SQL Server 
+* Postgress, MySQL, SQLite, Oracle, SQL Server 
 
 #### Web
-*  HTML5, CSS, React, REST
-*  GIMP, Inkscape, Blender
+* HTML5, CSS, React, REST
+* GIMP, Inkscape, Blender
 
 #### Tools
-*  Python Development- VSCode, Jupyter Notebook
-*  Agile- Jira, Confluence, Trello, etc.
-*  CI/CD on Github and GitLab
-*  Power BI
+* Python Development- VSCode, Jupyter Notebook
+* Agile- Jira, Confluence, Trello, etc.
+* CI/CD on Github and GitLab
+* Power BI
 
 #### Methodologies
-*  SCRUM, KANBAN, SAFe, Agile, Waterfall
+* SCRUM, KANBAN, SAFe, Agile, Waterfall
 
 #### Data Visualisation
-*  Matplotlib, Excel-charts, 
-*  Power BI
+* Matplotlib, Excel-charts, 
+* Power BI
 
 #### Data Visualisation/Documentation tools
-*  MS Word, MS Excel, MS PowerPoint, MS Access
-*  Google Docs, Google Slides, Google Sheets
+* MS Word, MS Excel, MS PowerPoint, MS Access
+* Google Docs, Google Slides, Google Sheets
 
 
 ### Execution Skills
 
 #### Data Analysis
-*  Regression analysis – linear and exponential
-*  Categorical Data Analysis using complex tools Pandas and Scikit Learn
-*  Data Modelling
-*  Data Cleansing- Python- Pandas and Scikit Learn
-*  Data Visualisation-  matplotlib, Plotly, Excel Charts
-*  Data Analysis-Pareto Analysis, Hypothesis Testing, A/B testing, Pattern Recognition, etc.
+* Regression analysis – linear and exponential
+* Categorical Data Analysis using complex tools Pandas and Scikit Learn
+* Data Modelling
+* Data Cleansing- Python- Pandas and Scikit Learn
+* Data Visualisation-  matplotlib, Plotly, Excel Charts
+* Data Analysis-Pareto Analysis, Hypothesis Testing, A/B testing, Pattern Recognition, etc.
 
 #### Business Analysis
-*  Facilitate workshops to elicit requirements from multiple stakeholders including functional, Business and technical
-*  Business analysis tools like Data Analysis, Process Analysis, Modelling, Flow-charting, etc.
+* Facilitate workshops to elicit requirements from multiple stakeholders including functional, Business and technical
+* Business analysis tools like Data Analysis, Process Analysis, Modelling, Flow-charting, etc.
 
 #### Soft Skills
-*  Key strengths include 
-  ** strong problem solving & deciphering capability
-  ** analysing gaps 
-  ** leveraging technical knowledge to provide optimised solution
-*  Analytical thinking, Problem Solving, Decision Making
-*  Negotiation Skills, Effective communication, Leadership Skills
+* Key strengths include 
+  * strong problem solving & deciphering capability
+  * analysing gaps 
+  * leveraging technical knowledge to provide optimised solution
+* Analytical thinking, Problem Solving, Decision Making
+* Negotiation Skills, Effective communication, Leadership Skills
 

@@ -55,9 +55,9 @@ Prior to this have been in the IT industry in various roles including developmen
 
 #### Soft Skills
 *  Key strengths include 
-** strong problem solving & deciphering capability
-** analysing gaps 
-** leveraging technical knowledge to provide optimised solution
+  ** strong problem solving & deciphering capability
+  ** analysing gaps 
+  ** leveraging technical knowledge to provide optimised solution
 *  Analytical thinking, Problem Solving, Decision Making
 *  Negotiation Skills, Effective communication, Leadership Skills
 

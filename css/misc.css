@@ -1,0 +1,11 @@
+.para-justify {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+#fh5co-bottom {
+  padding: 3em 0;
+  clear: both;
+  color: white;
+}
+
